@@ -44,6 +44,7 @@ I am currently working on strengthening my logic-building ability, writing optim
 
 * Improving **problem-solving logic** instead of memorizing solutions
 * Practicing **DSA patterns deeply**
+* Participating in Contest like **Codechef and Codeforces**
 * Building consistency in solving coding problems daily
 * Starting and contributing to meaningful development projects
 
@@ -72,7 +73,7 @@ Here you will find:
 * Write clean, efficient, and scalable code
 
 ## 🎓 Education
-Bachelor of Engineering - First Year
+Bachelor of Engineering - 
 Savitribai Phule Pune University (SPPU)
 2024 - 2028
 
