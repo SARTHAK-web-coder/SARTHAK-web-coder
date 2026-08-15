@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a second-year engineering student with a strong focus on building problem-solving skills and developing real-world technical expertise. My primary areas of interest include **Data Structures & Algorithms (DSA)**, **Full Stack Web Development**, and **Data Science fundamentals**.
+I am a third-year engineering student with a strong focus on building problem-solving skills and developing real-world technical expertise. My primary areas of interest include **Data Structures & Algorithms (DSA)**, **Full Stack Web Development**, and **Data Science fundamentals**.
 
 I am currently working on strengthening my logic-building ability, writing optimized code, and preparing myself for high-quality internships in the tech industry.
 
@@ -43,7 +43,7 @@ I am currently working on strengthening my logic-building ability, writing optim
 ## 📌 Current Focus
 
 * Improving **problem-solving logic** instead of memorizing solutions
-* Practicing **DSA patterns deeply**
+* Practicing **DSA Patterns deeply on Leetcode**
 * Participating in Contest like **Codechef and Codeforces**
 * Building consistency in solving coding problems daily
 * Starting and contributing to meaningful development projects
@@ -68,7 +68,7 @@ Here you will find:
 
 ## 🎯 Goals
 
-* Build strong DSA foundations for top tech companies
+* Build strong DSA foundations 
 * Become proficient in Full Stack Development
 * Write clean, efficient, and scalable code
 
@@ -90,4 +90,4 @@ I believe in **consistent practice**, **learning from mistakes**, and **focusing
 
 ---
 
-⭐ *Always learning, always improving.*
+⭐ *Hunger to learn & improve more*
